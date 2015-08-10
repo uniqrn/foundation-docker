@@ -1,3 +1,9 @@
+# What is this image?
+
+This image includes build tools like compass, grunt-cli, bower for customizing foundation framework with SCSS.
+It is made with the install process described at [http://foundation.zurb.com/docs/sass.html](http://foundation.zurb.com/docs/sass.html).
+
+
 ## How to use this image
 
 If you want to create new foundation project, you run the command as bellows. And, you'll get SCSS and so on under current directory.
