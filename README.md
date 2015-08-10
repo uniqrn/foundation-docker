@@ -9,5 +9,5 @@ Then, you can customize SCSS in MY_PROJECT.
 If you want to compile SCSS into CSS, you can use ```compass``` command from this image.
 
 ```docker run -it --rm -u foundation -v `pwd`:/opt -w /opt uniqrn/foundation /bin/bash```
-# ```compass watch```
+```# compass watch```
 
